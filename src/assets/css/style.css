@@ -4623,7 +4623,7 @@ border: 1px solid rgba(0,0,0,0.1);
 .done, .done2 {
     display: none;
 }
-.nopadding .col-md-4 {padding:0;}
+.nopadding .col-md-4 {padding:0}
 .sow-headline h1 {
     text-align: center;
     line-height: 1.3;
